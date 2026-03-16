@@ -6,6 +6,8 @@ An agentic AI system that automatically generates high-quality LinkedIn posts fo
 
 ## 🏗️ Architecture
 
+![linkedin_post_generator_architecture.svg](linkedin_post_generator_architecture.svg)
+
 ```
 User Input
     │
